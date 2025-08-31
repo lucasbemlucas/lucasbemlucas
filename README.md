@@ -16,6 +16,7 @@
     <img alt="total stars" title="Total stars on GitHub"
       src="https://custom-icon-badges.demolab.com/github/stars/thematrixbunny?style=for-the-badge&logo=star&date=120825"/>
   </a>
+  <br>
   <a href="https://github.com/the-matrix-bunny?tab=followers">
     <img alt="followers" title="Follow me on GitHub"
       src="https://custom-icon-badges.demolab.com/github/followers/thematrixbunny?style=for-the-badge&logo=person-add&label=Follow&logoColor=white&date=120825"/>
@@ -24,6 +25,7 @@
     <img alt="views" title="GitHub profile views"
       src="https://komarev.com/ghpvc/?username=thematrixbunny&style=for-the-badge"/>
   </a>
+  <br>
 </p>
 
 <!-- MINI TAGLINE -->
