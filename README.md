@@ -8,19 +8,19 @@
 
 <!-- PRIMARY CTAs -->
 <p align="center">
-  <a href="https://thematrixbunny.vercel.app/">
+  <a href="https://the-matrix-bunny.vercel.app/">
     <img alt="Visit my site" title="Visit my site — The Matrix Bunny"
       src="https://img.shields.io/badge/Visit%20my%20site-%2300ff9c?style=for-the-badge&logo=vercel&logoColor=white&labelColor=011010"/>
   </a>
-  <a href="https://github.com/thematrixbunny?tab=repositories&sort=stargazers">
+  <a href="https://github.com/the-matrix-bunny?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub"
       src="https://custom-icon-badges.demolab.com/github/stars/thematrixbunny?style=for-the-badge&logo=star&date=120825"/>
   </a>
-  <a href="https://github.com/thematrixbunny?tab=followers">
+  <a href="https://github.com/the-matrix-bunny?tab=followers">
     <img alt="followers" title="Follow me on GitHub"
       src="https://custom-icon-badges.demolab.com/github/followers/thematrixbunny?style=for-the-badge&logo=person-add&label=Follow&logoColor=white&date=120825"/>
   </a>
-  <a href="https://github.com/thematrixbunny/">
+  <a href="https://github.com/the-matrix-bunny/">
     <img alt="views" title="GitHub profile views"
       src="https://komarev.com/ghpvc/?username=thematrixbunny&style=for-the-badge"/>
   </a>
@@ -68,14 +68,14 @@ Sistemas devem ir além da lógica: precisam comunicar intenção, verdade e imp
 <!-- LINKS SECUNDÁRIOS -->
 <h3>Portais</h3>
 <ul>
-  <li>🌐 Site (provisório): <a href="https://thematrixbunny.vercel.app/">thematrixbunny.vercel.app</a></li>
+  <li>🌐 Site (provisório): <a href="https://the-matrix-bunny.vercel.app/">the-matrix-bunny.vercel.app</a></li>
   <li>📦 Repositórios: <a href="https://github.com/thematrixbunny?tab=repositories&sort=stargazers">GitHub</a></li>
   <li>👤 Perfil: <a href="https://github.com/thematrixbunny">github.com/thematrixbunny</a></li>
 </ul>
 
 <!-- FOOTER BADGE LINE -->
 <p align="center">
-  <a href="https://thematrixbunny.vercel.app/">
+  <a href="https://the-matrix-bunny.vercel.app/">
     <img alt="Enter the Portal →" title="Enter the Portal →"
       src="https://img.shields.io/badge/ENTER%20THE%20PORTAL-%2300ff9c?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000"/>
   </a>
