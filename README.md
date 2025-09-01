@@ -54,7 +54,6 @@ Sistemas devem ir além da lógica: precisam comunicar intenção, verdade e imp
 <!-- TECH STACK -->
 <h3>Stack & Ferramentas</h3>
 <div style="display: inline_block"><br>
-  <img align="center" alt="C" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Csharp" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
