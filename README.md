@@ -37,9 +37,6 @@
 
 <!-- STREAK / STATS -->
 <p align="center">
-  <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=thematrixbunny&theme=transparent&hide_border=true&date=120825" alt="GitHub Streak"/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thematrixbunny&hide_border=true&theme=transparent&date=120825" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thematrixbunny&layout=compact&hide_border=true&theme=transparent&date=120825" alt="Top Langs"/>
 </p>
