@@ -14,16 +14,16 @@
   </a>
   <a href="https://github.com/the-matrix-bunny?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub"
-      src="https://custom-icon-badges.demolab.com/github/stars/thematrixbunny?style=for-the-badge&logo=star&date=120825"/>
+      src="https://custom-icon-badges.demolab.com/github/stars/lucasbemlucas?style=for-the-badge&logo=star&date=120825"/>
   </a>
   <br>
   <a href="https://github.com/the-matrix-bunny?tab=followers">
     <img alt="followers" title="Follow me on GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/thematrixbunny?style=for-the-badge&logo=person-add&label=Follow&logoColor=white&date=120825"/>
+      src="https://custom-icon-badges.demolab.com/github/followers/lucasbemlucas?style=for-the-badge&logo=person-add&label=Follow&logoColor=white&date=120825"/>
   </a>
   <a href="https://github.com/the-matrix-bunny/">
     <img alt="views" title="GitHub profile views"
-      src="https://komarev.com/ghpvc/?username=thematrixbunny&style=for-the-badge"/>
+      src="https://komarev.com/ghpvc/?username=lucasbemlucas&style=for-the-badge"/>
   </a>
   <br>
 </p>
@@ -37,8 +37,8 @@
 
 <!-- STREAK / STATS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thematrixbunny&hide_border=true&theme=transparent&date=120825" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thematrixbunny&layout=compact&hide_border=true&theme=transparent&date=120825" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasbemlucas&hide_border=true&theme=transparent&date=120825" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasbemlucas&layout=compact&hide_border=true&theme=transparent&date=120825" alt="Top Langs"/>
 </p>
 
 <!-- ABOUT -->
@@ -67,8 +67,8 @@ Sistemas devem ir além da lógica: precisam comunicar intenção, verdade e imp
 <h3>Portais</h3>
 <ul>
   <li>🌐 Site (provisório): <a href="https://the-matrix-bunny.vercel.app/">the-matrix-bunny.vercel.app</a></li>
-  <li>📦 Repositórios: <a href="https://github.com/thematrixbunny?tab=repositories&sort=stargazers">GitHub</a></li>
-  <li>👤 Perfil: <a href="https://github.com/thematrixbunny">github.com/thematrixbunny</a></li>
+  <li>📦 Repositórios: <a href="https://github.com/lucasbemlucas?tab=repositories&sort=stargazers">GitHub</a></li>
+  <li>👤 Perfil: <a href="https://github.com/lucasbemlucas">github.com/lucasbemlucas</a></li>
 </ul>
 
 <!-- FOOTER BADGE LINE -->
