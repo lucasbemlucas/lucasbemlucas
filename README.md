@@ -1,6 +1,6 @@
 <!-- MATRIX BUNNY HEADER -->
 <h1 align="center" style="font-family: 'Share Tech Mono', monospace;">
-  🐇 The Matrix Bunny — Lucas B. Almendra
+  Lucas B. Almendra
 </h1>
 <p align="center">
   <em>desenvolvimento full‑stack</em>
