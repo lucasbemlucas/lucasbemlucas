@@ -3,7 +3,7 @@
   Oi! 👋
 </h1>
 <p align="center">
-  <em>desenvolvimento full‑stack</em>
+  <em>desenvolvimento full‑stack - redes - segurança da informação</em>
 </p>
 
 <!-- PRIMARY CTAs -->
