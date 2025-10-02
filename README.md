@@ -43,9 +43,10 @@
 
 <!-- ABOUT -->
 <p align="left">
-Sou um desenvolvedor focado em aplicações eficientes, escaláveis e seguras. Trabalho utilizando múltiplas stacks e arquiteturas, sempre com boas práticas, visão estratégica e ética de código. Estudo redes e segurança da informação, me preparando para certificações CCNA e CompTIA+.
+Sou um desenvolvedor focado em aplicações eficientes, escaláveis e seguras. Trabalho utilizando múltiplas stacks e arquiteturas, sempre com boas práticas, visão estratégica e ética de código. 
 <br/>
-Sistemas devem ir além da lógica: precisam comunicar intenção, verdade e impacto.
+Curso análise e desenvolvimento de sistemas e estudo redes e segurança da informação, me preparando para certificações CCNA e CompTIA+.
+Sistemas devem ir além da lógica: precisam comunicar intenção, verdade e impacto com segurança.
 </p>
 
 <!-- TECH STACK -->
