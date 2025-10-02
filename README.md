@@ -1,6 +1,6 @@
 <!-- MATRIX BUNNY HEADER -->
 <h1 align="center" style="font-family: 'Share Tech Mono', monospace;">
-  Lucas B. Almendra
+  Lucas Almendra
 </h1>
 <p align="center">
   <em>desenvolvimento full‑stack</em>
