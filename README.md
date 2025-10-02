@@ -1,6 +1,6 @@
 <!-- MATRIX BUNNY HEADER -->
 <h1 align="center" style="font-family: 'Share Tech Mono', monospace;">
-  Oi! 👋
+  Oi, visitante! 👋
 </h1>
 <p align="center">
   <em>desenvolvimento full‑stack - redes - segurança da informação</em>
