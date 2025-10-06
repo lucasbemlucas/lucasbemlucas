@@ -47,7 +47,7 @@ Sou um desenvolvedor focado em aplicações eficientes, escaláveis e seguras. T
 <br/>
 Curso análise e desenvolvimento de sistemas e estudo redes e segurança da informação, me preparando para certificações CCNA e CompTIA+.
 <br/>
-Sistemas devem ir além da lógica: precisam comunicar intenção, verdade e impacto com segurança.
+Sistemas devem ir além da lógica: precisam comunicar intenção, verdade e impacto real.
 </p>
 
 <!-- TECH STACK -->
