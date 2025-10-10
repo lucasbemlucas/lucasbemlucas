@@ -74,7 +74,7 @@ Sistemas devem ir além da lógica: precisam comunicar intenção, verdade e imp
 
 <!-- FOOTER BADGE LINE -->
 <p align="center">
-  <a href="https://the-matrix-bunny.vercel.app/">
+  <a href="https://thematrixbunny.vercel.app/">
     <img alt="Enter the Portal →" title="Enter the Portal →"
       src="https://img.shields.io/badge/ENTER%20THE%20PORTAL-%2300ff9c?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000"/>
   </a>
