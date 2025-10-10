@@ -67,7 +67,7 @@ Sistemas devem ir além da lógica: precisam comunicar intenção, verdade e imp
 <!-- LINKS SECUNDÁRIOS -->
 <h3>Portais</h3>
 <ul>
-  <li>🌐 Site (provisório): <a href="https://the-matrix-bunny.vercel.app/">the-matrix-bunny.vercel.app</a></li>
+  <li>🌐 Site (provisório): <a href="https://thematrixbunny.vercel.app/">the-matrix-bunny.vercel.app</a></li>
   <li>📦 Repositórios: <a href="https://github.com/lucasbemlucas?tab=repositories&sort=stargazers">GitHub</a></li>
   <li>👤 Perfil: <a href="https://github.com/lucasbemlucas">github.com/lucasbemlucas</a></li>
 </ul>
