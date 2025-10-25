@@ -8,16 +8,16 @@
 
 <!-- PRIMARY CTAs -->
 <p align="center">
-  <a href="https://github.com/the-matrix-bunny?tab=repositories&sort=stargazers">
+  <a href="https://github.com/lucasbemlucas?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub"
       src="https://custom-icon-badges.demolab.com/github/stars/lucasbemlucas?style=for-the-badge&logo=star&date=120825"/>
   </a>
   <br>
-  <a href="https://github.com/the-matrix-bunny?tab=followers">
+  <a href="https://github.com/lucasbemlucas?tab=followers">
     <img alt="followers" title="Follow me on GitHub"
       src="https://custom-icon-badges.demolab.com/github/followers/lucasbemlucas?style=for-the-badge&logo=person-add&label=Follow&logoColor=white&date=120825"/>
   </a>
-  <a href="https://github.com/the-matrix-bunny/">
+  <a href="https://github.com/lucasbemlucas/">
     <img alt="views" title="GitHub profile views"
       src="https://komarev.com/ghpvc/?username=lucasbemlucas&style=for-the-badge"/>
   </a>
