@@ -43,7 +43,7 @@ Sistemas devem ir além da lógica: precisam comunicar intenção, verdade e imp
 </p>
 
 <!-- TECH STACK -->
-<h3>Stack & Ferramentas</h3>
+<h3>Stack</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
