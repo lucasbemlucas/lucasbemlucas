@@ -32,10 +32,6 @@
 </p>
 
 <!-- STREAK / STATS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasbemlucas&hide_border=true&theme=transparent&date=120825" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasbemlucas&layout=compact&hide_border=true&theme=transparent&date=120825" alt="Top Langs"/>
-</p>
 
 <!-- ABOUT -->
 <p align="left">
